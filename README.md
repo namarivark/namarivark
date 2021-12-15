@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @namarivark
+- 👋 Hi, I’m karthi
 - 👀 I’m curious about everything
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on DS, ML & AI
